@@ -32,11 +32,12 @@ body{
 }
 
 ul li{
-  list-style-type: none;
+  list-style-type: disc
+
 }
 
 ul{
-  padding-left: 0;
+  padding-left: 30px;
 }
 
 a:hover, a:focus{
@@ -847,7 +848,7 @@ html,body {
 }
 
 .brand-logo__wrapper li{
-  list-style-type: none;
+
   display: inline-block;
   padding-right: 160px;
   margin-bottom: 20px;
